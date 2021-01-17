@@ -1,1 +1,2 @@
-# 100tifiko-Single-Page-App-Vanilla
+This is a Single Page Application developed in VanillaJs and deployed to Azure App Service:  https://100tifico.azurewebsites.net \n
+please feel free to visit it 
